@@ -1,0 +1,4 @@
+CalculatorGUI
+*.o
+moc_*.cpp
+CalculatorGUI.pro.user
